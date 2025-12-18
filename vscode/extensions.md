@@ -103,3 +103,18 @@
 - **IntelliCode Completions** – تحسين اقتراحات الكود
 - **GitHub Copilot** – كتابة كود بمساعدة AI
 
+
+
+
+
+
+
+
+
+
+
+## fix vscode problem
+1- PowerShell
+2- Get-ExecutionPolicy
+3- Set-ExecutionPolicy RemoteSigned
+
